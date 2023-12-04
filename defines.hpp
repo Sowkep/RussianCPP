@@ -5,7 +5,7 @@
 //ОСНОВЫ C++ (iostream и прочее)
 
 //импорты для работы
-#include "imports.h"
+#include "imports.hpp"
 //типы данных
 #define целоечисло int
 #define булевыйтип bool

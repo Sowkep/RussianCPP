@@ -1,5 +1,5 @@
 //средний род defines
-#include "imports.h"
+#include "imports.hpp"
 #define большое long
 #define положительное unsigned
 #define отрицацельное signed
