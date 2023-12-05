@@ -4,8 +4,6 @@
 
 //ОСНОВЫ C++ (iostream и прочее)
 
-//импорты для работы
-#include "imports.hpp"
 //типы данных
 #define целоечисло int
 #define булевыйтип bool
@@ -41,18 +39,6 @@
 //прочее
 #define идтик goto
 #define ничего NULL
-//остальное
-#define плюс +
-#define минус -
-#define умножить *
-#define разделить /
-#define остатокотделения %
-#define встепени **
-#define инкремент ++
-#define дикремент --
-#define больше >
-#define меньше <
-#define равно =
 
 //МАТЕМАТИКА (cmath)
 //все математические действия

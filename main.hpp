@@ -1,7 +1,5 @@
+//импортировать данный файл при работе!
 #include "imports.hpp"
-#include "defines.hpp"
-#include "definesf.hpp"
-#include "definesu.hpp"
-#include "definesm.hpp"
-#include "numbers.hpp"
-#include "symbols.hpp"
+#include "defines/dfi.hpp"
+#include "numbers/nmi.hpp"
+#include "symbols/smi.hpp"

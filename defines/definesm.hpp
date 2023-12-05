@@ -1,5 +1,4 @@
 //множественное число defines
-#include "imports.hpp"
 #define целыечисла int
 #define булевыйтип bool
 #define дроби double

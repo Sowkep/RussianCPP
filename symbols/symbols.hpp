@@ -1,0 +1,11 @@
+#define плюс +
+#define минус -
+#define умножить *
+#define разделить /
+#define остатокотделения %
+#define встепени **
+#define инкремент ++
+#define дикремент --
+#define больше >
+#define меньше <
+#define равно =
